@@ -1,0 +1,53 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+footer{
+  background-color: #363636;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  margin-top: 50px;
+  font-size: 20px;
+}
+#copy{
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+header{
+  font-family: Arial, Helvetica, sans-serif
+  text-align: center;
+  background-color: brown;
+  padding:20px;
+  margin-top:0%;
+}
+.menu{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align:center;
+  background-color: brown;
+  margin-top:0%;
+  padding: 21px;
+  color: #fff
+}
+#contatos{
+  background-color: brown;
+  color: #fff;
+  padding: 20px;
+  text-align: start;
+  margin-top: 50px;
+  font-size: 20px;
+}
+#card{
+font-size: 9px;
+}
+#sobre{
+  background-color: brown;  
+  color: #fff;
+  padding: 20px;
+  text-align: start;
+  margin-top: 50px;
+  font-size: 20px;
+}
+  
